@@ -1,8 +1,8 @@
-Origin: Cydia/Repository
-Label: Cydia/Repository
+Origin: Cydia Repository
+Label: Cydia Repository
 Suite: stable
 Version: 0.1
-Codename: Cydia/Repository
+Codename: Cydia Repository
 Architectures: iphoneos-arm
 Components: main
 Description: Test
